@@ -1,0 +1,25 @@
+[33mcommit f6523f0fe21f0f5f409f3e0b63eb32fa67a02476[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Vatrochok <ivan.ortiz.torres@outlook.com>
+Date:   Mon Sep 1 18:55:43 2025 -0600
+
+    crear el index.html
+
+[33mcommit 4513489d28dca20d9c8614a5b5cd10862c410862[m
+Author: Vatrochok <ivan.ortiz.torres@outlook.com>
+Date:   Mon Sep 1 18:52:55 2025 -0600
+
+    Actualiza README.md
+
+[33mcommit ca290744cd798a713bedc6c89478feb55e942cf1[m
+Author: Vatrochok <ivan.ortiz.torres@outlook.com>
+Date:   Mon Sep 1 18:51:39 2025 -0600
+
+    Crea app.js
+
+[33mcommit 0a64cd14103637bf9a75fee3231b1289a9e030b4[m
+Author: Vatrochok <ivan.ortiz.torres@outlook.com>
+Date:   Mon Sep 1 18:50:39 2025 -0600
+
+    Crea README.md
+    
+    - Creando el archivo README del proyecto para tener un histórico de todos loas cambios y mejoras del proyecto.
